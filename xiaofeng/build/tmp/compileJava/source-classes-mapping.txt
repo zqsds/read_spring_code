@@ -1,0 +1,20 @@
+com/xf/beanfactorypostprocessor/MyBeanFactoryPostProcessor.java
+ com.xf.beanfactorypostprocessor.MyBeanFactoryPostProcessor
+com/xf/dao/IndexDao.java
+ com.xf.dao.IndexDao
+com/xf/dao/TestConstuct.java
+ com.xf.dao.TestConstuct
+com/xf/dao/Tset2Constuct.java
+ com.xf.dao.Tset2Constuct
+com/xf/beanpostprocessor/TestBeanPostProcessor.java
+ com.xf.beanpostprocessor.TestBeanPostProcessor
+com/xf/dao/IndexDao2.java
+ com.xf.dao.IndexDao2
+com/xf/imports/MyImportSelector.java
+ com.xf.imports.MyImportSelector
+com/xf/dao/BaseDao.java
+ com.xf.dao.BaseDao
+com/xf/config/AppConfig.java
+ com.xf.config.AppConfig
+com/xf/test/Test.java
+ com.xf.test.Test
